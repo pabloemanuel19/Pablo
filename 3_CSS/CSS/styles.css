@@ -27,3 +27,52 @@ p {
     font: 50px;
     padding: 20px;
 }
+
+/* ordem de seletores  */
+h2 {
+    border-bottom: 3px solid red;
+}
+
+.titulo {
+    border-bottom: 3px solid blue;
+}
+
+#algum-titulo  {
+     border-bottom: 3px solid green;
+}
+
+.color-name {
+    color: crimson;
+}
+
+.hex {
+    color:#adff2f;
+
+}
+
+.hex-2 {
+    color: #d2691e;
+}
+
+/* aprofundando em hex */
+.simple-hex {
+    color: #333;
+}
+
+.simple-hex-2 {
+    color: #a5f
+}
+
+.rgb {
+     color: rgb(255, 0 , 0);
+}
+
+.mixed-rgb {
+    color: rgb(248, 199, 25);
+}
+
+/* rgba */
+.rgba {
+    color: rgba(100, 149, 237, 0.3);
+}
+
