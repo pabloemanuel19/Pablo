@@ -1,0 +1,29 @@
+/* External CSS */
+body {
+    padding-bottom: 500px;
+}
+
+h3 {
+    color: blue;
+    font-size: 30px;
+}
+
+p {
+    color: blueviolet;
+}
+
+/* classes */
+.paragraph {
+    background-color: #000;
+    color: aqua;
+    font-size: 50px;
+    padding: 5px;
+}
+
+/* ids */
+#exclusive-title {
+    background-color: burlywood;
+    color: cadetblue;
+    font: 50px;
+    padding: 20px;
+}
