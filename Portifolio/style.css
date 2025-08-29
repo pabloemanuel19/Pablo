@@ -1,0 +1,23 @@
+ body {
+    background-color: #000;
+  
+
+} 
+h1 {
+    color: #f6f6f6;
+}
+h1 strong {
+    color:#22D4FD;
+}
+p {
+    color: #f6f6f6;
+}
+ img {
+    width: 200px;
+    border-radius: 10px;
+}
+button {
+    background-color: #22D4FD;
+    color: #f6f6f6;
+    border:none ;
+}
